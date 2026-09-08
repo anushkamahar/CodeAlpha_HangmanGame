@@ -49,7 +49,7 @@ CodeAlpha_HangmanGame/
 ```
 ## CodeAlpha Internship
 
-This project was completed as Task 1 - Hangman Game for the CodeAlpha Python Programming Internship.
+This project was completed as **Task 1 - Hangman Game** for the **CodeAlpha Python Programming Internship**.
 
 ## Author
 
